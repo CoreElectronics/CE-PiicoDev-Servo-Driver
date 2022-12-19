@@ -5,8 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "PiicoDev Smart Module 52mm Template")
-    (rev "00")
+    (title "PiicoDev Servo Driver")
+    (date "2022-12-19")
+    (rev "10")
     (company "Core Electronics")
     (comment 1 "Designed by Michael Ruppe at")
     (comment 2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd.")
